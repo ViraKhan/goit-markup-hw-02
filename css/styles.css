@@ -56,48 +56,25 @@
 .header-nav-item {
   
 }
-.contact-info {
+.contact-info {}
+
+.contact-info-list {
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 font-style: normal;
-
 }
 
-.contact-info-list {
-}
-.contact-info-list-item {
-}
-.email {
-   font-family: "Roboto", sans-serif;
-   font-weight: 400;
-   font-size: 16px;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
-   color: #434455;
-}
-.phone {
-   font-family: "Roboto", sans-serif;
-   font-weight: 400;
-   font-size: 16px;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
-   color: #434455;
-}
-
-.email:hover, .email:focus {
+.contact-info-list:hover, .contact-info-list:focus {
    color: #404bbf;
 }
 
-.phone:hover,.phone:focus {
-   color: #404bbf;
-}
 
 /*hero part*/
 .hero {
-   font-weight: 700;
+font-weight: 700;
 font-size: 56px;
 line-height: 1.07143;
 letter-spacing: 0.02em;
