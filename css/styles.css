@@ -56,7 +56,9 @@
 .header-nav-item {
   
 }
-.contact-info {}
+.contact-info {
+font-style: normal;
+}
 
 .contact-info-list {
 font-weight: 400;
@@ -67,7 +69,8 @@ color: #434455;
 font-style: normal;
 }
 
-.contact-info-list:hover, .contact-info-list:focus {
+.contact-info-list:hover,
+.contact-info-list:focus {
    color: #404bbf;
 }
 
