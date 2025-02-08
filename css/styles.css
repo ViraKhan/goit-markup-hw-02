@@ -24,7 +24,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-.logo-text {
+.logo-span {
    color: #2e2f42;
 }
 .header-nav-link {
@@ -34,21 +34,23 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+
 .header-nav-link:hover,
 .header-nav-link:focus {
-   color: #404bff;
+   color: #404bbf;
 }
 
-.address-link{
+.contact_details {
+   font-style: normal;
+}
+
+.contact-info-list {
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #434455;
-   font-style: normal;
 }
-.address-link:focus, {
-   color: #404BBF;
-}
-.address-link:hover {
-   color: #404BBF;
+.contact-info-list:hover,
+.contact-info-list:focus {
+   color: #404bbf;
 }
