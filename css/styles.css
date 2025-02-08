@@ -24,7 +24,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-.logo-span {
+.logo_subtext {
    color: #2e2f42;
 }
 .header-nav-link {
@@ -39,7 +39,6 @@ color: #2e2f42;
 .header-nav-link:focus {
    color: #404bbf;
 }
-
 .contact_details {
    font-style: normal;
 }
@@ -53,4 +52,30 @@ color: #2e2f42;
 .contact-info-list:hover,
 .contact-info-list:focus {
    color: #404bbf;
+}
+.section-hero {
+   background-color: #2e2f42;
+   text-align: center;
+   
+}
+.hero-section-header {
+   font-size: 56px;
+   line-height: 1.07;
+   text-align: center;
+   letter-spacing: 0.02em;
+   color: #ffffff;
+}
+.hero-btn {
+   background-color: #4D5AE5;
+   font-family: "Roboto", sans-serif;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.04em;
+   color: #ffffff;
+   cursor: pointer;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+   background-color: #404BBF;
 }
